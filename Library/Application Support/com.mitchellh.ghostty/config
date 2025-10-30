@@ -25,8 +25,13 @@
 # ==========================
 # # The config file consists of simple key-value pairs,
 # # separated by equals signs.
-# font-family = Iosevka
-# window-padding-x = 2
+
+
+font-family = Agave Nerd Font Mono
+# theme = Gruvbox Material Dark 
+theme = Flexoki Dark
+window-padding-x = 5
+
 #
 # # Spacing around the equals sign does not matter.
 # # All of these are identical:
@@ -47,3 +52,13 @@
 # # which is explained in the docs for that config option.
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
+
+# MY OWN CONFIGS
+unfocused-split-opacity = 1
+window-height = 30
+window-width = 107
+
+font-size = 14
+
+font-thicken = true
+macos-icon = xray
